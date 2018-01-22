@@ -8,7 +8,6 @@
 
 # dependencies
 /node_modules
-/OXD/node_modules
 
 # IDEs and editors
 /.idea
